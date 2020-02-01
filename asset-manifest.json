@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-06-phonebook-redux-toolkit/static/css/main.06f642bc.chunk.css",
+    "main.js": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/main.0d2abd75.chunk.js",
+    "main.js.map": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/main.0d2abd75.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/runtime-main.92ffc697.js",
+    "runtime-main.js.map": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/runtime-main.92ffc697.js.map",
+    "static/js/2.da41db95.chunk.js": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/2.da41db95.chunk.js",
+    "static/js/2.da41db95.chunk.js.map": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/2.da41db95.chunk.js.map",
+    "index.html": "/goit-react-hw-06-phonebook-redux-toolkit/index.html",
+    "precache-manifest.09a491f63ae8aca98217955e9d1c2443.js": "/goit-react-hw-06-phonebook-redux-toolkit/precache-manifest.09a491f63ae8aca98217955e9d1c2443.js",
+    "service-worker.js": "/goit-react-hw-06-phonebook-redux-toolkit/service-worker.js",
+    "static/css/main.06f642bc.chunk.css.map": "/goit-react-hw-06-phonebook-redux-toolkit/static/css/main.06f642bc.chunk.css.map",
+    "static/media/Notification.module.css": "/goit-react-hw-06-phonebook-redux-toolkit/static/media/alert.efc182ef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92ffc697.js",
+    "static/js/2.da41db95.chunk.js",
+    "static/css/main.06f642bc.chunk.css",
+    "static/js/main.0d2abd75.chunk.js"
+  ]
+}
